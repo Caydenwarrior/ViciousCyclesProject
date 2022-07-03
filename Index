@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="css/stylebike.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vicious Cycles</title>
+</head>
+<body>
+  <nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="shop.html">Shop</a></li>
+    <li><a href="services.html">Services</a></li>
+    <li><a href="community.html">Community</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+      
+      <div class="tab-content">
+        <div id ="About">
+          <h1>About</h1>
+          <p>Vicious Cycles Brings An Adventure to All</p>
+      </div>
+      <div class="tab-content">
+        <div id ="About">
+          <h1>Shop</h1>
+          <p>Welcome to out Products Page! Check back often ask we post sales often!</p>
+      </div>
+      <div class="tab-content">
+        <div id ="About">
+          <h1>Services</h1>
+          <p>Here at Vicious Cycles we offer custom bike builds, repairs, and much more!</p>
+      </div>
+      <div class="tab-content">
+        <div id ="About">
+          <h1>Community</h1>
+          <p>Vicious Cycles Cares About Our Community! Come be part of our next adventure!</p>
+      </div>
+      <div class="tab-content">
+        <div id ="About">
+          <h1>Contact</h1>
+          <p>We are here to help! Contact us and we will do our best to get back to you in 24 hrs or less!</p>
+      </div>
+      
+    <h1>Vicious Cycles</h1>
+    We believe that everyone deserves a chance at their adventure!
+    <h2>Book your appointment<em>TODAY!</em></h2>
+    <h3> 123 Main St.
+        Anywhere, NC 27000
+        Phone: (919) 123-4567 Fax: (919) 123-9875</h3>
+     
+</body>
+</html>
